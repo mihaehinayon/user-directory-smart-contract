@@ -41,13 +41,13 @@ struct User {
 
 ## Assignment Requirements Met
 
-✅ Create register(), updateProfile(), getProfile() functions  
-✅ Use a struct named User  
-✅ Store data in state variables  
-✅ Include public getter function  
-✅ Validate that user cannot register twice  
-✅ Add a view function to fetch user info  
-✅ Track registration timestamp using uint  
+- Create register(), updateProfile(), getProfile() functions  
+- Use a struct named User  
+- Store data in state variables  
+- Include public getter function  
+- Validate that user cannot register twice  
+- Add a view function to fetch user info  
+- Track registration timestamp using uint  
 
 ## Usage Example
 
@@ -61,7 +61,3 @@ struct User {
 - Uses mapping for efficient address-to-user lookups
 - Implements proper validation and error handling
 - Gas-optimized with view functions for reads
-
-## Repository
-
-This smart contract was created as part of a blockchain development workshop assignment.
